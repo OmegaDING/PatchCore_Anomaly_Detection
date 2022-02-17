@@ -1,2 +1,2 @@
 # PatchCore_Anomaly_Detection
-PatchCore anomaly detection through the paper reproduction
+PatchCore anomaly detection through the paper reproduction in PyTorch
